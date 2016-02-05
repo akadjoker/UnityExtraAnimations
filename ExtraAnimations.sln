@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BB312818-632F-22C1-98D4-CA2EF58C9201}") = "ExtraAnimations", "Assembly-CSharp-Editor.csproj", "{E5604ECF-9F4C-4CAE-7F5B-53144A0FB072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5604ECF-9F4C-4CAE-7F5B-53144A0FB072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5604ECF-9F4C-4CAE-7F5B-53144A0FB072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5604ECF-9F4C-4CAE-7F5B-53144A0FB072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5604ECF-9F4C-4CAE-7F5B-53144A0FB072}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
